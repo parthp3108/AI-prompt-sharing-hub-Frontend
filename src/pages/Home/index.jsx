@@ -7,7 +7,7 @@ import {
   FaShieldAlt,
 } from "react-icons/fa";
 
-import Icon from "../../assets/icon.svg";
+import Icon from "../../assets/Icon.svg";
 const Home = () => {
   return (
     <div className="home-container">
